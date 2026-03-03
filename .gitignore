@@ -1,0 +1,10 @@
+# cache
+*.ipynb_checkpoints
+__pycache__
+
+# data
+data/
+
+# raw model
+models/model.h5
+models/model_adv.h5
